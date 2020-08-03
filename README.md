@@ -1,5 +1,5 @@
 ### Who are you?
-I'm a recent Computer Science graduate with over 8 years of varying degrees of mostly software development & teaching experience.
+I'm a recent Computer Science graduate with over 8 years of collective software development & teaching experience.
 
 ### Where did you go to school?
 I have both a Bachelor's and Master's of Science in Computer Science from Syracuse University. Go 🍊.
